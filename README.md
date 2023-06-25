@@ -7,7 +7,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-👋 Hello, I'm [Kelvin Obuvie]!
+### 👋 Hello, I'm [Kelvin Obuvie]!
 
 💻 Front-End Developer | HTML | CSS | JavaScript | ReactJS
 
