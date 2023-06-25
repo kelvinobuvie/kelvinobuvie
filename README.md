@@ -3,14 +3,33 @@
 <!--
 **kelvinobuvie/kelvinobuvie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👋 Hello, I'm [Kelvin Obuvie]!
+
+💻 Front-End Developer | HTML | CSS | JavaScript | ReactJS
+
+🌟 Passionate about creating engaging and intuitive user experiences through clean and efficient code. I specialize in front-end development and have a strong foundation in HTML, CSS, and JavaScript. I'm also experienced in building responsive and mobile-friendly web applications using frameworks like ReactJS.
+
+🔧 Skills:
+
+Proficient in HTML5, CSS3, and JavaScript, with a focus on writing semantic and accessible code.
+Experience with modern front-end frameworks and libraries, including ReactJS, to develop interactive and dynamic user interfaces.
+Familiarity with responsive design principles and building mobile-first websites.
+Strong understanding of version control using Git, collaborating with teams, and using GitHub for project management.
+Knowledge of UI/UX principles and best practices, with an eye for detail and aesthetics.
+🔨 Projects:
+
+[Project 1]: Developed a responsive e-commerce website using ReactJS, integrating payment gateways and implementing a user-friendly shopping cart feature.
+[Project 2]: Created a portfolio website using HTML, CSS, and JavaScript, showcasing my skills and projects.
+[Project 3]: Contributed to an open-source project on GitHub, collaborating with developers worldwide to improve the UI/UX and add new features.
+📚 Education:
+
+Bachelor's Degree in Computer Science (Expected graduation: [Year]).
+🌱 I'm constantly learning and exploring new technologies to enhance my development skills. Currently, I'm diving deeper into JavaScript frameworks and improving my knowledge of CSS preprocessors like Sass.
+
+📫 Let's connect! Feel free to reach out to me on LinkedIn to discuss potential collaborations or exciting front-end opportunities.
+
+
