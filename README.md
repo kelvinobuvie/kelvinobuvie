@@ -38,7 +38,7 @@ Bachelor's Degree in Computer Science (July 2022).
 🌱 I'm constantly learning and exploring new technologies to enhance my development skills. Currently, I'm diving deeper into JavaScript frameworks and improving my knowledge of CSS preprocessors like Sass.
 
 📫 Let's connect! Feel free to reach out to me on <a href="www.linkedin.com/in/kelvin-obuvie">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img  width=80px src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a> to discuss potential collaborations or exciting front-end opportunities.
 
 <!--
