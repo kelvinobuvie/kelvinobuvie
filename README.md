@@ -32,7 +32,7 @@ Knowledge of UI/UX principles and best practices, with an eye for detail and aes
 
 # 🔨 Projects:
 
-[Responsive Eront-End Food-Store](https://online-foodstore.netlify.app/): Developed a responsive Online Food Store which is a virtual marketplace where customers can browse, order, and purchase a wide variety of food products and groceries conveniently from their devices. The website is designed to provide a user-friendly and seamless shopping experience for customers seeking to buy food items online..
+[Responsive Front-End Food-Store](https://online-foodstore.netlify.app/): Developed a Responsive Online Food Store which is a virtual marketplace where customers can browse, order, and purchase a wide variety of food products and groceries conveniently from their devices. The website is designed to provide a user-friendly and seamless shopping experience for customers seeking to buy food items online..
 
 # 📚 Education:
 Bachelor's Degree in Computer Science (July 2022).
