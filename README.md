@@ -1,6 +1,6 @@
 # Hi there, I'm Kelvin Obuvie! 👋
 
-![Banner Image](https://your-banner-image-url-here.com)
+![Banner Image](https://github.com/kelvinobuvie/kelvinobuvie/blob/main/GitHub%20Profile%20Banner%20-%2002.png?raw=true)
 
 ## About Me 🚀
 
@@ -9,6 +9,7 @@ I'm a passionate **Frontend Developer & Product Designer** with a growing expert
 I enjoy crafting intuitive user interfaces, solving real-world problems, and designing products that are both functional and beautiful. My approach blends design thinking with engineering logic—bringing clarity, precision, and energy to everything I create.
 
 - 🌱 Currently learning: **Backend Development (Python, C#, APIs, Databases)**
+- 👬 I’m looking to collaborate on anything exciting
 - 🔭 Working on: **A full-stack API project to simplify and accelerate payments**
 - 🌍 Languages: **HTML, CSS, JavaScript, Python, C#**
 - 📫 How to reach me: **kelvinobuvie@gmail.com** or [LinkedIn](https://www.linkedin.com/in/kelvin-obuvie/)
