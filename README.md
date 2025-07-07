@@ -1,56 +1,60 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-<div id="badges" align ="center">
-  <a href="https://www.linkedin.com/in/kelvin-obuvie/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://twitter.com/obuvie_">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-<h1 align="center">
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+# Hi there, I'm Kelvin Obuvie! 👋
 
-# 👋 I'm Kelvin Obuvie!
+![Banner Image](https://your-banner-image-url-here.com)
 
-**💻 Front-End Developer | HTML | CSS | JavaScript | ReactJS**
+## About Me 🚀
 
-🌟 Passionate about creating engaging and intuitive user experiences through clean and efficient code. I specialize in front-end development and have a strong foundation in HTML, CSS, and JavaScript. I'm also experienced in building responsive and mobile-friendly web applications using frameworks like ReactJS.
+I'm a passionate **Frontend Developer & Product Designer** with a growing expertise in **backend development** using Python. I’m enthusiastic about building meaningful digital experiences that empower people, especially through financial and business solutions.
+
+I enjoy crafting intuitive user interfaces, solving real-world problems, and designing products that are both functional and beautiful. My approach blends design thinking with engineering logic—bringing clarity, precision, and energy to everything I create.
+
+- 🌱 Currently learning: **Backend Development (Python, C#, APIs, Databases)**
+- 🔭 Working on: **A full-stack API project to simplify and accelerate payments**
+- 🌍 Languages: **HTML, CSS, JavaScript, Python, C#**
+- 📫 How to reach me: **kelvinobuvie@gmail.com** or [LinkedIn](https://www.linkedin.com/in/kelvin-obuvie/)
+- ⚡ Fun fact: **I’m high-spirited, full of energy, and sometimes I chase perfection 😅**
 
 ---
 
-# 🔧 Skills:
+## My Skills & Tools 🧠
 
-Proficient in HTML5, CSS3, and JavaScript, with a focus on writing semantic and accessible code.
-Experience with modern front-end frameworks and libraries, including ReactJS, to develop interactive and dynamic user interfaces.
-Familiarity with responsive design principles and building mobile-first websites.
-Strong understanding of version control using Git, collaborating with teams, and using GitHub for project management.
-Knowledge of UI/UX principles and best practices, with an eye for detail and aesthetics.
-
----
-
-# 🔨 Projects:
-
-[Responsive Front-End Food-Store](https://online-foodstore.netlify.app/): Developed a Responsive Online Food Store which is a virtual marketplace where customers can browse, order, and purchase a wide variety of food products and groceries conveniently from their devices. The website is designed to provide a user-friendly and seamless shopping experience for customers seeking to buy food items online..
-
----
-
-# 📚 Education:
-Bachelor's Degree in Computer Science (July 2022).
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
 
-**🌱 I'm constantly learning and exploring new technologies to enhance my development skills. Currently, I'm diving deeper into JavaScript frameworks and improving my knowledge of CSS preprocessors like Sass.**
+## Featured Projects 💻
 
-📫 Let's connect! Feel free to reach out to me on <a href="www.linkedin.com/in/kelvin-obuvie">
-    <img  width=80px src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a> to discuss potential collaborations or exciting front-end opportunities.
+### [Student Financial Management App](https://github.com/kelvinobuvie/student-finance-app)
 
-<!--
-**kelvinobuvie/kelvinobuvie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Student Finance Screenshot](https://your-app-screenshot-url-here.com)
 
+This project allows students to track their finances, set savings goals, lock funds, and analyze their spending. Built with **React, Tailwind CSS, and Chart.js**, this project showcases my frontend design skills, financial modeling, and data visualization.
 
+### [FastPay – API Payment System (WIP)](https://github.com/kelvinobuvie/fastpay-api)
 
+Currently building a backend API that simplifies and speeds up payment processes for businesses. Built with **Python (Flask/FastAPI)**, this API will support secure transactions, performance monitoring, and integrations with payment gateways.
+
+---
+
+## Get in Touch 📬
+
+- [LinkedIn](https://www.linkedin.com/in/kelvin-obuvie/)
+- 📫 Email: kelvinobuvie@gmail.com
+- [GitHub](https://github.com/kelvinobuvie)
+- Personal site coming soon!
+
+---
+
+_“Driven by impact, guided by logic, and built with purpose.”_
