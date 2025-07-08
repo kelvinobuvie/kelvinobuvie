@@ -37,15 +37,21 @@ I enjoy crafting intuitive user interfaces, solving real-world problems, and des
 
 ## Featured Projects 💻
 
-### [Student Financial Management App](https://github.com/kelvinobuvie/student-finance-app)
+### [Student Financial Management App](https://github.com/kelvinobuvie/quantra?tab=readme-ov-file)
 
-![Student Finance Screenshot](https://your-app-screenshot-url-here.com)
+![Student Finance Screenshot](https://github.com/kelvinobuvie/quantra/raw/main/Dashboard.png)
 
 This project allows students to track their finances, set savings goals, lock funds, and analyze their spending. Built with **React, Tailwind CSS, and Chart.js**, this project showcases my frontend design skills, financial modeling, and data visualization.
 
-### [FastPay – API Payment System (WIP)](https://github.com/kelvinobuvie/fastpay-api)
+### [TRM (Technical Risk Management)](https://trmleadway.netlify.app/)
 
-Currently building a backend API that simplifies and speeds up payment processes for businesses. Built with **Python (Flask/FastAPI)**, this API will support secure transactions, performance monitoring, and integrations with payment gateways.
+![TRM](https://github.com/kelvinobuvie/TRM-app/blob/main/src/assets/Images/Dashboard%20overview.png)
+
+ Technical Risk Management (TRM) App is a web-based platform developed to enhance the efficiency and organization of managing technical risk-related activities. The app provides tools for tracking inspections, managing personnel, and generating reports, all within an intuitive interface
+
+### [API Payment System (WIP)
+
+Currently building a backend API that simplifies and speeds up payment processes for businesses. This API will support secure transactions, performance monitoring, and integrations with payment gateways.
 
 ---
 
@@ -53,6 +59,7 @@ Currently building a backend API that simplifies and speeds up payment processes
 
 - [LinkedIn](https://www.linkedin.com/in/kelvin-obuvie/)
 - 📫 Email: kelvinobuvie@gmail.com
+- [hello](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/filled/instagram.svg)
 - [GitHub](https://github.com/kelvinobuvie)
 - Personal site coming soon!
 
