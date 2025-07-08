@@ -49,19 +49,22 @@ This project allows students to track their finances, set savings goals, lock fu
 
  Technical Risk Management (TRM) App is a web-based platform developed to enhance the efficiency and organization of managing technical risk-related activities. The app provides tools for tracking inspections, managing personnel, and generating reports, all within an intuitive interface
 
-### [API Payment System (WIP)
+### API Payment System (WIP)
 
 Currently building a backend API that simplifies and speeds up payment processes for businesses. This API will support secure transactions, performance monitoring, and integrations with payment gateways.
 
 ---
 
-## Get in Touch 📬
+## 🌐 Connect With Me
 
-- [LinkedIn](https://www.linkedin.com/in/kelvin-obuvie/)
-- 📫 Email: kelvinobuvie@gmail.com
-- [hello](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/filled/instagram.svg)
-- [GitHub](https://github.com/kelvinobuvie)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelvin-obuvie/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kelvinobuvie)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kelvinobuvie@gmail.com)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/obuvie_)
+
 - Personal site coming soon!
+
+---
 
 ---
 
