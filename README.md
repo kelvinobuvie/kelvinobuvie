@@ -37,7 +37,7 @@ I enjoy crafting intuitive user interfaces, solving real-world problems, and des
 
 ## Featured Projects 💻
 
-### [Student Financial Management App](https://github.com/kelvinobuvie/quantra?tab=readme-ov-file)
+### [Student Financial Management App](https://bluetiles.netlify.app/)
 
 ![Student Finance Screenshot](https://github.com/kelvinobuvie/quantra/raw/main/Dashboard.png)
 
