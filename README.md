@@ -58,7 +58,7 @@ Currently building a backend API that simplifies and speeds up payment processes
 ## 🌐 Connect With Me
 
 [![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/obuvie_)
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://github.com/kelvinobuvie)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/kelvin-obuvie/)
 
 - Personal site coming soon!
 
